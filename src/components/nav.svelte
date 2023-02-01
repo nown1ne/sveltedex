@@ -7,7 +7,7 @@
 	<a href="/">
 		<img
 			class="hover:scale-105 "
-			src="https://fontmeme.com/temporary/0303eff57987bb62fa03ff0cb3de8c5b.png"
+			src="https://fontmeme.com/temporary/187efe9a23703852ffc83845a6e0fdb1.png"
 			alt="Sveltedex"
 		/>
 	</a>
